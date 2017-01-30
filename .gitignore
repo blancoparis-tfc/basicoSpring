@@ -15,3 +15,5 @@
 .settings/org.eclipse.jdt.core.prefs
 .settings/org.eclipse.wst.common.component
 .settings/gradle/org.springsource.ide.eclipse.gradle.core.prefs
+/.gradle/
+.settings
